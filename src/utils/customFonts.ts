@@ -7,7 +7,7 @@ const rightGrotesk = localFont({
 const biroScript = localFont({
   src: [
     {
-      path: "../public/fonts/BiroScript/BiroScriptPlus-Bold.ttf",
+      path: "/fonts/biroScript/BiroScriptPlus.ttf",
     },
   ],
   variable: "--font-biro-script",

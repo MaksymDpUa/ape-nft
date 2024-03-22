@@ -1,0 +1,32 @@
+@font-face {
+  font-family: "BiroScriptPlus-Bold";
+  src: url("/fonts/biroScript/BiroScriptPlus-Bold.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MessinaSansMono-Regular";
+  src: url("/fonts/messina/MessinaSansMono-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "MessinaSansMono-SemiBold";
+  src: url("/fonts/messina/MessinaSansMono-SemiBold.ttf") format("truetype");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Right Grotesk";
+  src: url("/fonts/rightGrotesk/RightGrotesk-CompactBlack.otf")
+    format("opentype");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
